@@ -1,1 +1,8 @@
-{"mcpServers":{}}
+{
+  "mcpServers": {
+    "weather": {
+      "command": "python",
+      "args": ["/home/zhiping/mcp_quickstart/weather_server.py"]
+    }
+  }
+}
